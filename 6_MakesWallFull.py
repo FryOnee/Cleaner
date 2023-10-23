@@ -28,6 +28,6 @@ if lines is not None:
 cv2.imwrite('Floor_1.png', image)
 
 # Wyświetl obraz z kreskami
-cv2.imshow('Obraz z kreskami', image)
-cv2.waitKey(0)
-cv2.destroyAllWindows()
+#cv2.imshow('Obraz z kreskami', image)
+#cv2.waitKey(0)
+#cv2.destroyAllWindows()
